@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "94070268440",
+    "project_id": "sparkwomen-a4f47",
+    "storage_bucket": "sparkwomen-a4f47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94070268440:android:354fa6ada6bffaf1ed596d",
+        "android_client_info": {
+          "package_name": "com.darkness.sparkwomen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94070268440-r2veb1hoeb70kmv7jomru8l2ajoqvgbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE6YP2BtimZfiRW7Nc3xIcshtJ9sIT2bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94070268440-r2veb1hoeb70kmv7jomru8l2ajoqvgbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
